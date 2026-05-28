@@ -5,7 +5,7 @@ using SPTarkov.Server.Core.Helpers;
 using SPTarkov.Server.Core.Models.Spt.Mod;
 using SPTarkov.Server.Core.Services;
 
-namespace _bossesHaveGpCoins;
+namespace BossesHaveGpCoins;
 
 public record ModMetadata : AbstractModMetadata
 {
